@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -3 | cat | tail -n 1
+tail -3 | head +3 
