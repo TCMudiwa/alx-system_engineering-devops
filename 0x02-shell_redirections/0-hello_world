@@ -1,2 +1,2 @@
-echo 'Hello World' > hello_world
-cat hello_world
+#!/bin/bash
+echo 'Hello World'
