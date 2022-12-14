@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $(($POWER / $RULE))
+echo -e $(($POWER/$RULE))
