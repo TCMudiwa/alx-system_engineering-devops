@@ -1,0 +1,1 @@
+Task on shell, input and output as well as redirections and filters.
